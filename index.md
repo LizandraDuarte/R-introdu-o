@@ -1,5 +1,3 @@
-# R_ECONS
-Curso R
 
 <h1><center>UFJF | FACULDADE DE ECONOMIA | ECONS</center></h1>
 
@@ -16,7 +14,7 @@ Curso R
 ---
  
 ---
-[**MODULO 1. Introdução ao R**](https://andresuriane.github.io/R_ECONS/Intro_R_ECONS.html)
+ ## [**MODULO 1. Introdução ao R**](https://andresuriane.github.io/R_ECONS/Intro_R_ECONS.html)
 
 - [1 Introdução](https://andresuriane.github.io/R_ECONS/Intro_R_ECONS.html#1-Introdução)
   - [1.1 Instalando o R](https://andresuriane.github.io/R_ECONS/Intro_R_ECONS.html#1.1-Instalando-o-R)  
